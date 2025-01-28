@@ -1,0 +1,16 @@
+{
+    "name": "michael/hotel-booking-management",
+    "license": "Mit",
+    "autoload": {
+        "psr-4": {
+            "Michael\\HotelBookingManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "haile12michael12",
+            "email": "michaelhaile12@yahoo.com"
+        }
+    ],
+    "require": {}
+}
